@@ -1,0 +1,3 @@
+[submodule "web-monitoring"]
+	path = web-monitoring
+	url = https://github.com/ivanmunandar15/web-server-monitoring.git

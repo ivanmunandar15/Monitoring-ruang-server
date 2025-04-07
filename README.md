@@ -33,10 +33,10 @@ Sistem monitoring suhu dan kelembaban ruang server berbasis IoT menggunakan **ES
 
 ```bash
 # Clone repositori ini
-git clone https://github.com/username/iot-server-monitoring.git
+git clone https://github.com/ivanmunandar15/web-server-monitoring.git
 
 # Masuk ke folder project
-cd iot-server-monitoring
+cd web-monitoring
 
 # Install dependency
 npm install
